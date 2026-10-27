@@ -1,9 +1,9 @@
 
 /* EXCEPCIONES */
 
-class GolesNegativosError extends Error {}
-class DorsalNegativoError extends Error {}
-class JugadorRepetidoError extends Error {}
+class GolesNegativosError extends Error { }
+class DorsalNegativoError extends Error { }
+class JugadorRepetidoError extends Error { }
 
 /* CLASE JUGADOR */
 
